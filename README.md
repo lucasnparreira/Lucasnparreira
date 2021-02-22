@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Java Application Development and other stacks
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Junior Java developer.
+- 💼 &nbsp; Junior Web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -13,9 +13,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | PHP  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS| Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Postgree SQL
-- 🔧 &nbsp; IntelliJ | PyCharm | Eclipse | Git
+- 🔧 &nbsp; IntelliJ | PyCharm | Eclipse | VSCode| Git
 
 <br>
 
