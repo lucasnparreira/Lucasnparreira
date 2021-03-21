@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Java Application Development and other stacks
+- 🔭 &nbsp; I’m currently learning IOS Application Development and other stacks
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Junior Web developer.
+- 💼 &nbsp; Junior IOS developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
