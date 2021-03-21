@@ -12,10 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | PHP  
+- 💻 &nbsp; Swift | Java | PHP  
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS| Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Postgree SQL
-- 🔧 &nbsp; IntelliJ | PyCharm | Eclipse | VSCode| Git
+- 🔧 &nbsp; XCode | PyCharm | Eclipse | VSCode| Git
 
 <br>
 
