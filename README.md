@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Swift | Java | PHP  
+- 💻 &nbsp; Swift | SwiftUI
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS| Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Postgree SQL
-- 🔧 &nbsp; XCode | PyCharm | Eclipse | VSCode| Git
+- 🔧 &nbsp; XCode | VSCode| Git
 
 <br>
 
