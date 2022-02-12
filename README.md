@@ -11,9 +11,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Swift | SwiftUI
+- 💻 &nbsp; Python | Swift | SwiftUI
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS| Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Postgree SQL
+- 🛢 &nbsp; MySQL | SQL Server | Oracle | Firebase | Postgree SQL
 - 🔧 &nbsp; XCode | VSCode| Git
 
 <br>
